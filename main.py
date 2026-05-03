@@ -29,7 +29,7 @@ if not BOT_TOKEN:
     sys.exit(1)
 
 REQUIRED_CHANNELS = ["@BunthyFreeLike"]
-GROUP_JOIN_LINK = "https://t.me/FreefireLimh
+GROUP_JOIN_LINK = "https://t.me/FreefireLimh"
 OWNER_ID = 8451766221    #Example: 6282811167
 OWNER_USERNAME = "@STEALER_KILLLOGS"
 
